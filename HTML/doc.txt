@@ -1,0 +1,17 @@
+src -> image path
+
+path
+======
+1. Absolute path 
+2. Relative path
+
+
+
+Website Publish
+=================
+
+-> Files should be online (hosting)
+ 
+-> address (Domain Name)
+
+

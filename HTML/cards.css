@@ -1,0 +1,27 @@
+
+#firstDiv {
+    background-color: pink;
+    color: darkred;
+}
+
+#secondDiv {
+    background-color: lightseagreen;
+    color: darkgreen;
+}
+
+#thirdDiv {
+    background-color: skyblue;
+    color: darkblue
+}
+
+#container {
+    display: inline-flex;  
+}
+
+
+.mygroup {
+    height: 100px;
+    width: 200px;
+   
+    text-align: center;
+}

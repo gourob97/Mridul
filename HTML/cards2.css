@@ -1,0 +1,27 @@
+
+#firstDiv {
+    background-color: teal;
+    color: darkslategray;
+}
+
+#secondDiv {
+    background-color: purple;
+    color: darkmagenta;
+}
+
+#thirdDiv {
+    background-color: rgb(140, 135, 235);
+    color: rgb(68, 141, 106)
+}
+
+#container {
+    display: inline-flex;  
+}
+
+
+.mygroup {
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}
